@@ -1,3 +1,4 @@
+https://www.canva.com/design/DAGSQVINqDs/P3ohRv4Bj9J--9kZ33aB_w/edit?utm_content=DAGSQVINqDs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 Нейронные сети для анализа солнечных аномалий
 1. Обнаружение солнечных пятен
 Библиотеки:
